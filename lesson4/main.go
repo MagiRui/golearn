@@ -100,7 +100,6 @@ func main() {
 
 	fmt.Println(red, green)
 
-
 	const (
 		red_color = iota
 	)
@@ -117,8 +116,5 @@ func main() {
 	//redColor1 := 1
 	//虽然底层类型一样，但是却不能直接赋值
 	//redColor1  = redColor
-
-
-
 
 }
